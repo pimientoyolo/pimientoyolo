@@ -1,6 +1,7 @@
 # ¡Hola! 👋 Soy Miguel Pimiento
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-fernando-pimiento-escobar-ia/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-3B82F6?style=for-the-badge&logo=portfolio&logoColor=white)](https://pimientoyolo.github.io/portafolio/)
 
 ## 👨‍💻 Sobre Mí
 
